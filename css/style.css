@@ -1,0 +1,95 @@
+html{
+
+ font-family: 'Roboto', sans-serif;
+ 
+    
+}
+
+body{
+  background-color: black;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: center;
+  background-attachment: fixed;
+}
+header{
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  padding: 40px 10px;
+  border: 30px solid gray ;
+  color: black;
+  font-size: x-large;
+  margin: 20px;
+    
+}
+
+
+a:link{
+  color: white;
+}
+
+a:hover{
+  color: blue;
+  border: 2px outset;
+  background-color: white;
+  padding: 20px;
+}
+
+a:visited{
+ color:red;
+}
+
+#historia{
+  color: black;
+  background-color: white;
+  padding: 10px;
+
+}
+
+#aside{
+  background-color: black;
+  color: white;
+  border: white 5px solid;
+  padding: 10px;
+}
+
+#integrantes{
+  color: white;
+}
+
+
+#logros{
+  clear: both;
+  background-color: white;
+  color: black;
+  padding: 5px;
+  margin: 5px;
+}
+
+#discografia{
+  color: white;
+
+}
+footer{
+  color: white;
+}
+  
+hr{
+  color: white;
+}
+
+carousel-inner> .item> img { 
+  width: 200px; 
+  height: 100px;
+ }
+ .card-title{
+   color: black;
+ }
+ .card-text{
+   color: black;
+ }
+
+.titulo1{
+color: white;
+}
